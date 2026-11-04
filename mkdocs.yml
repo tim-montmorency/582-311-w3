@@ -1,0 +1,11 @@
+# Configuration du cours — tout le reste vient du grimoire
+INHERIT: _grimoire/base.yml
+
+site_name: Web 3
+site_url: https://tim-montmorency.github.io/web3/
+repo_url: https://github.com/tim-montmorency/582-311-w3
+repo_name: tim-montmorency/582-311-w3
+
+nav:
+  - Accueil: index.md
+  - Cours 1: cours01.md

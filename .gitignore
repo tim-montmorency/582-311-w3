@@ -1,0 +1,7 @@
+# Fourni par le grimoire au moment du build (dossier cloné ou lien symbolique)
+/_grimoire
+# Produits du build
+/site
+/.cache
+/.venv
+.DS_Store
